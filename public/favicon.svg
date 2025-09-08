@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Customer Manager Icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)" />
+  <!-- User silhouette -->
+  <circle cx="32" cy="24" r="10" fill="#ffffff" opacity="0.95" />
+  <path d="M16 50c0-8.284 7.163-15 16-15s16 6.716 16 15v2H16v-2z" fill="#ffffff" opacity="0.95" />
+</svg>
+
